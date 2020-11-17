@@ -49,4 +49,5 @@ public class SalesReport {
 	public void setProfitAmount(double profitAmount) {
 		this.profitAmount = profitAmount;
 	}
+	
 }
