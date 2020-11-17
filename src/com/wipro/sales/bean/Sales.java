@@ -31,4 +31,5 @@ public class Sales {
 	public void setSalesPricePerUnit(double salesPricePerUnit) {
 		this.salesPricePerUnit = salesPricePerUnit;
 	}
+	
 }
