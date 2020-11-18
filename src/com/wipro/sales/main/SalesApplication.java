@@ -17,7 +17,7 @@ public class SalesApplication {
 			System.out.println("3.) Insert Sales");
 			System.out.println("4.) View Sales Report");
 			System.out.println("5.) Get Stocks");
-			System.out.println("Press any other key to exit.");
+			System.out.println(" Press any other key to exit. ");
 			int t = scan.nextInt();
 			
 			if(t == 1) {
