@@ -97,4 +97,5 @@ public class Administrator {
 		SalesDao d1 = new SalesDao();
 		return d1.getSalesReport();
 	}
+	
 }
